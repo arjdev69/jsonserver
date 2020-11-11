@@ -2,23 +2,23 @@
   "lista": [
     {
       "id": 1,
-      "name": "Avaliação Serviço 1"
+      "name": "Avaliação Serviço 01"
     },
     {
       "id": 2,
-      "name": "Avaliação Serviço 1"
+      "name": "Avaliação Serviço 02"
     },
     {
       "id": 3,
-      "name": "Avaliação Serviço 1"
+      "name": "Avaliação Serviço 03"
     },
     {
       "id": 4,
-      "name": "Avaliação Serviço 1"
+      "name": "Avaliação Serviço 04"
     },
     {
       "id": 5,
-      "name": "Avaliação Serviço 1"
+      "name": "Avaliação Serviço 05"
     }
   ],
 
