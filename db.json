@@ -1,0 +1,30 @@
+{
+  "lista": [
+    {
+      "id": 1,
+      "name": "Avaliação Serviço 1"
+    },
+    {
+      "id": 2,
+      "name": "Avaliação Serviço 1"
+    },
+    {
+      "id": 3,
+      "name": "Avaliação Serviço 1"
+    },
+    {
+      "id": 4,
+      "name": "Avaliação Serviço 1"
+    },
+    {
+      "id": 5,
+      "name": "Avaliação Serviço 1"
+    }
+  ],
+
+  "tasks": [
+    {
+      "city": "Salvador"
+    }
+  ]
+}
