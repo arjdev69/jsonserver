@@ -14,7 +14,7 @@
     },
     {
       "id": 4,
-      "name": "Mercedes Benz"
+      "name": "Mercedes-Benz"
     },
     {
       "id": 5,
@@ -55,8 +55,8 @@
     },
    {
       "id": 2,
-      "city": "Maranello, Itália",
-      "district": "Maranello",
+      "city": "Maranello",
+      "district": "Módena",
       "street": "Via Abetone, (MO), Italy",
       "urlFoto": "https://corporate.ferrari.com/sites/ferrari15ipo/files/home_slide_images/base_hp_slider_100_70.jpg",
       "urlLogo": "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias/resize/5ca488365d32fb0b9e2ac5af-ferrari?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF",
@@ -115,31 +115,31 @@
     },
   {
       "id": 4,
-      "city": "Maranello, Itália",
-      "district": "Maranello",
-      "street": "Via Abetone, (MO), Italy",
-      "urlFoto": "https://corporate.ferrari.com/sites/ferrari15ipo/files/home_slide_images/base_hp_slider_100_70.jpg",
-      "urlLogo": "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias/resize/5ca488365d32fb0b9e2ac5af-ferrari?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF",
-      "title": "Ferrari",
-      "phone": "390536949888",
-      "text": "Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello. Fundada por Enzo Ferrari em 1939 na divisão de corridas da Alfa Romeo com o nome Auto Avio Costruzioni, a empresa construiu seu primeiro carro em 1940.",
-      "address": "Via Abetone Inferiore No. 4, I-41053 Maranello (MO), Italy",
-      "lat": 44.532682, 
-      "long":  10.864519,
+      "city": "Stuttgart, Alemanha",
+      "district": "Rosental",
+      "street": "Pascalstraße 100, Alemanha",
+      "urlFoto": "https://www.mercedes-benz.com.br/resources/media/banners/20190816_27e98635877c4e9a9e9cd956399da1af_banner-autos.jpg",
+      "urlLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_free_logo.svg/600px-Mercedes-Benz_free_logo.svg.png",
+      "title": "Mercedes-Benz",
+      "phone": "4971125900",
+      "text": "A Mercedes-Benz é uma marca alemã de automóveis pertencente ao grupo Daimler AG, criada em 1924 e resultado de uma fusão entre a Benz & Cie. e a Daimler-Motoren-Gesellschaft. É a mais antiga empresa de automóveis e veículos comerciais da Alemanha e do mundo.",
+      "address": "Pascalstraße 100, 70569 Stuttgart, Alemanha",
+      "lat": 48.728119, 
+      "long":  9.078152,
       "comments": [
         {
           "urlPhoto": "https://randomuser.me/api/portraits/men/27.jpg",
           "name": "Travis Warren",
-          "note": 5,
-          "title": "Super!!!!",
-          "comment": "O topo da gama, a classe alta no mundo dos transportes."
+          "note": 2,
+          "title": "Não Recomendo",
+          "comment": "Muito caro, outras oficinas cobram mais de 30% menos pelo mesmo desempenho. Não recomendado e também muito difícil de alcançar."
         },
         {
           "urlPhoto": "https://randomuser.me/api/portraits/men/7.jpg",
           "name": "James Collins",
-          "note": 4,
-          "title": "Recomendo!!!",
-          "comment": "Super recomendado. Vendedor oportuno em comunicação e super honesto."
+          "note": 5,
+          "title": "Satisfeito!!!",
+          "comment": "Nós trazemos nosso carro aqui e estamos satisfeitos. O que eu não gosto tanto é que nos documentos que você recebe, ele não mostra exatamente o que foi feito nas inspeções. Equipe amigável. Há um pequeno canto com cafés gratuitos e água mineral. Horário de funcionamento em minhas fotos. Se a minha informação ajudou você, estou ansioso para um 👍 como"
         }
       ]
     },
