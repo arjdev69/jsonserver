@@ -2,23 +2,23 @@
   "lista": [
     {
       "id": 1,
-      "name": "Avaliação Serviço 01"
+      "name": "4All"
     },
     {
       "id": 2,
-      "name": "Avaliação Serviço 02"
+      "name": "Ferrari"
     },
     {
       "id": 3,
-      "name": "Avaliação Serviço 03"
+      "name": "Ford"
     },
     {
       "id": 4,
-      "name": "Avaliação Serviço 04"
+      "name": "Mercedes Benz"
     },
     {
       "id": 5,
-      "name": "Avaliação Serviço 05"
+      "name": "Audi"
     }
   ],
 
