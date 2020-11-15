@@ -52,6 +52,36 @@
           "comment": "Excelente empresa. Pessoal nota 1000000!! Parabéns pelo sucesso!"
         }
       ]
+    },
+   {
+      "id": 2,
+      "city": "Maranello, Itália",
+      "district": "Maranello",
+      "street": "Via Abetone, (MO), Italy",
+      "urlFoto": "https://corporate.ferrari.com/sites/ferrari15ipo/files/home_slide_images/base_hp_slider_100_70.jpg",
+      "urlLogo": "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias/resize/5ca488365d32fb0b9e2ac5af-ferrari?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF",
+      "title": "Ferrari",
+      "phone": "390510250410",
+      "text": "Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello. Fundada por Enzo Ferrari em 1939 na divisão de corridas da Alfa Romeo com o nome Auto Avio Costruzioni, a empresa construiu seu primeiro carro em 1940.",
+      "address": "Via Abetone Inferiore No. 4, I-41053 Maranello (MO), Italy",
+      "lat": 44.547890,
+      "long": 11.287528,
+      "comments": [
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/27.jpg",
+          "name": "Travis Warren",
+          "note": 5,
+          "title": "Super!!!!",
+          "comment": "O topo da gama, a classe alta no mundo dos transportes."
+        },
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/7.jpg",
+          "name": "James Collins",
+          "note": 4,
+          "title": "Recomendo!!!",
+          "comment": "Super recomendado. Vendedor oportuno em comunicação e super honesto."
+        }
+      ]
     }
   ]
 }
