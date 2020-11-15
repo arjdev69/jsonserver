@@ -82,6 +82,96 @@
           "comment": "Super recomendado. Vendedor oportuno em comunicação e super honesto."
         }
       ]
+    },
+  {
+      "id": 3,
+      "city": "Michigan, Estados Unidos",
+      "district": "Dearborn",
+      "street": "Oakwood Blvd, MI 48124, Estados Unidos",
+      "urlFoto": "https://www.ford.com.br/content/ford/br/pt_br/home/suvs-e-crossovers/territory/_jcr_content/par/common_box/generalParsys/splitter/splitter1/image/image.imgs.full.high.jpg/1596126872561.jpg",
+      "urlLogo": "https://www.ford.com.br/content/dam/Ford/website-assets/latam/br/home/fbr-ford-logo-header-brazil.png",
+      "title": "Ford",
+      "phone": "13136212900",
+      "text": "Ford Motor Company é uma fabricante de automóveis multinacional estadunidense sediada em Dearborn, Michigan, um subúrbio de Detroit. Foi fundada por Henry Ford e incorporada em 16 de junho de 1903.",
+      "address": "18751 Oakwood Blvd, Dearborn, MI 48124, Estados Unidos",
+      "lat": 42.293596,
+      "long": -83.221913,
+      "comments": [
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/27.jpg",
+          "name": "Travis Warren",
+          "note": 5,
+          "title": "Òtimo Lugar!!!",
+          "comment": "Esta foi a minha segunda casa. Ótimo lugar para trabalhar com ótimas pessoas para trabalhar. Talento é abundante dentro dessas paredes. Eu realmente sinto falta das pessoas 💔😢, das pessoas com quem trabalhei, dos engenheiros especiais que testei. É sempre um prazer dar uma passada e dizer Olá para aqueles que conheço e ainda trabalham lá."
+        },
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/7.jpg",
+          "name": "James Collins",
+          "note": 1,
+          "title": "Recomendo!!!",
+          "comment": "Meu Ford Focus SE 2016 só tem um eixo quebrado devido ao desenvolvimento defeituoso, Não compre o Ford Focus"
+        }
+      ]
+    },
+  {
+      "id": 4,
+      "city": "Maranello, Itália",
+      "district": "Maranello",
+      "street": "Via Abetone, (MO), Italy",
+      "urlFoto": "https://corporate.ferrari.com/sites/ferrari15ipo/files/home_slide_images/base_hp_slider_100_70.jpg",
+      "urlLogo": "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias/resize/5ca488365d32fb0b9e2ac5af-ferrari?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF",
+      "title": "Ferrari",
+      "phone": "390536949888",
+      "text": "Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello. Fundada por Enzo Ferrari em 1939 na divisão de corridas da Alfa Romeo com o nome Auto Avio Costruzioni, a empresa construiu seu primeiro carro em 1940.",
+      "address": "Via Abetone Inferiore No. 4, I-41053 Maranello (MO), Italy",
+      "lat": 44.532682, 
+      "long":  10.864519,
+      "comments": [
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/27.jpg",
+          "name": "Travis Warren",
+          "note": 5,
+          "title": "Super!!!!",
+          "comment": "O topo da gama, a classe alta no mundo dos transportes."
+        },
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/7.jpg",
+          "name": "James Collins",
+          "note": 4,
+          "title": "Recomendo!!!",
+          "comment": "Super recomendado. Vendedor oportuno em comunicação e super honesto."
+        }
+      ]
+    },
+  {
+      "id": 5,
+      "city": "Maranello, Itália",
+      "district": "Maranello",
+      "street": "Via Abetone, (MO), Italy",
+      "urlFoto": "https://corporate.ferrari.com/sites/ferrari15ipo/files/home_slide_images/base_hp_slider_100_70.jpg",
+      "urlLogo": "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias/resize/5ca488365d32fb0b9e2ac5af-ferrari?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF",
+      "title": "Ferrari",
+      "phone": "390536949888",
+      "text": "Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello. Fundada por Enzo Ferrari em 1939 na divisão de corridas da Alfa Romeo com o nome Auto Avio Costruzioni, a empresa construiu seu primeiro carro em 1940.",
+      "address": "Via Abetone Inferiore No. 4, I-41053 Maranello (MO), Italy",
+      "lat": 44.532682, 
+      "long":  10.864519,
+      "comments": [
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/27.jpg",
+          "name": "Travis Warren",
+          "note": 5,
+          "title": "Super!!!!",
+          "comment": "O topo da gama, a classe alta no mundo dos transportes."
+        },
+        {
+          "urlPhoto": "https://randomuser.me/api/portraits/men/7.jpg",
+          "name": "James Collins",
+          "note": 4,
+          "title": "Recomendo!!!",
+          "comment": "Super recomendado. Vendedor oportuno em comunicação e super honesto."
+        }
+      ]
     }
   ]
 }
